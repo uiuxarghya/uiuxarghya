@@ -29,7 +29,15 @@ Apart from coding,I also design prototypes
 <a href="https://github.com/uiuxarghya/uiuxarghya">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uiuxarghya&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
 <a href="https://github.com/uiuxarghya/uiuxarghya">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=uiuxarghya&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Arghya's GitHub Stats" />
+</a>
+
+<a href="https://github.com/uiuxarghya/fonts">
+  <img align="center" src="https://github-readme-stats.uiuxarghya.vercel.app/api/pin/?username=uiuxarghya&repo=fonts&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/uiuxarghya/javaprograms">
+  <img align="center" src="https://github-readme-stats.uiuxarghya.vercel.app/api/pin/?username=uiuxarghya&repo=javaprograms&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
