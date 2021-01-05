@@ -1,6 +1,6 @@
 <!-- GitHub Profile README -->
 
-[![Header](https://raw.githubusercontent.com/uiuxarghya/uiuxarghya/main/assets/header.png "Header")](https://github.com/uiuxarghya)
+[![Header](https://raw.githubusercontent.com/uiuxarghya/uiuxarghya/main/assets/header1.png "Header")](https://github.com/uiuxarghya)
 
 <!--------------------
 ![GitHub followers](https://img.shields.io/github/followers/uiuxarghya?label=Follow&style=social)
