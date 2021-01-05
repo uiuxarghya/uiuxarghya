@@ -1,9 +1,9 @@
 <!-- GitHub Profile README -->
 
-[![Header]("Header")]()
+[![Header](https://raw.githubusercontent.com/uiuxarghya/uiuxarghya/main/assets/header.png "Header")](https://github.com/uiuxarghya)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/uiuxarghya/uiuxarghya/main/wave.gif" width="30px">
-
+# Hello, folks! <img src="https://raw.githubusercontent.com/uiuxarghya/uiuxarghya/main/assets/wave.gif" width="30px">
+ 
 My name is Arghya Ghosh and I'm a software developer and . I'm from India, living in Kolkata and currently studying in Class 11.
 
 ## &#x270d; Blog & Writing
