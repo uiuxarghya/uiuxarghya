@@ -59,5 +59,5 @@ Apart from coding ,I also design websites and apps.
   <img align="center" src="https://github-readme-stats.uiuxarghya.vercel.app/api/pin/?username=uiuxarghya&repo=javaprograms&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-Visitors</br>
+### Visitors</br>
   <a href="#"><img src="https://badges.pufler.dev/visits/uiuxarghya/uiuxarghya"></a>
