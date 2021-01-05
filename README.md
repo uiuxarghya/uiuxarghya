@@ -6,9 +6,9 @@
  
 My name is Arghya Ghosh and I'm a software developer and designer. I'm from India, living in Kolkata and currently studying in Class 11.
 
-## &#x270d; Blog & Writing
+## 💻 Developing & Coding
 
-Apart from coding,I also design prototypes
+Apart from coding ,I also design websites and apps.
 
 
 
