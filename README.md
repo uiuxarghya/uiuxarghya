@@ -4,7 +4,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/uiuxarghya/uiuxarghya/main/assets/wave.gif" width="30px">
  
-My name is Arghya Ghosh and I'm a software developer and . I'm from India, living in Kolkata and currently studying in Class 11.
+My name is Arghya Ghosh and I'm a software developer and designer. I'm from India, living in Kolkata and currently studying in Class 11.
 
 ## &#x270d; Blog & Writing
 
