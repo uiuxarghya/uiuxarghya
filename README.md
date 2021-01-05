@@ -8,7 +8,7 @@ My name is Arghya Ghosh and I'm a software developer and designer. I'm from Indi
 
 ## 💻 Developing & Coding
 
-Apart from coding ,I also design websites and apps.
+Apart from coding , I also design websites and apps.
 
 
 
