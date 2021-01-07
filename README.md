@@ -58,7 +58,7 @@ Apart from coding ,I also design websites and apps.
 </a>
 
 <a href="https://github.com/uiuxarghya/Class_XI_Project">
-  <img align="center" src="https://github-readme-stats.uiuxarghya.vercel.app/api/pin/?username=uiuxarghya&repo=Class_XI_Projet&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.uiuxarghya.vercel.app/api/pin/?username=uiuxarghya&repo=Class_XI_Project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 ### Visitors</br>
