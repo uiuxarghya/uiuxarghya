@@ -48,7 +48,7 @@ Apart from coding ,I also design websites and apps.
 </a>
 
 <a href="https://github.com/uiuxarghya/uiuxarghya">
-  <img align="center" src="https://github-readme-stats.uiuxarghya.vercel.app/api/top-langs/?username=uiuxarghya&layout=default&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.uiuxarghya.vercel.app/api/top-langs/?username=uiuxarghya&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
