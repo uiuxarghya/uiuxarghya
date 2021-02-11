@@ -52,6 +52,9 @@ Apart from coding ,I also design websites and apps.
 </a>
 
 
+<a href="https://github.com/uiuxarghya/foldexify">
+  <img align="center" src="https://github-readme-stats.uiuxarghya.vercel.app/api/pin/?username=uiuxarghya&repo=foldexify&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 <a href="https://github.com/errow-icons/errow">
   <img align="center" src="https://github-readme-stats.uiuxarghya.vercel.app/api/pin/?username=errow-icons&repo=errow&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
