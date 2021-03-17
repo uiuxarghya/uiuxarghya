@@ -3,7 +3,7 @@
 [![Header](https://raw.githubusercontent.com/uiuxarghya/uiuxarghya/main/assets/header1.png "Header")](https://github.com/uiuxarghya)
 
 <a href="https://dev.to/uiuxarghya">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Arghya Ghosh's DEV Community Profile" height="30" width="30">
+  <img src="/assets/logos/dev.to.svg" alt="Arghya Ghosh's DEV Community Profile" height="30" width="30">
 </a>
 <!--------------------
 ![GitHub followers](https://img.shields.io/github/followers/uiuxarghya?label=Follow&style=social)
