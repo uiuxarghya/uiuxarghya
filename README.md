@@ -54,13 +54,12 @@ Apart from coding ,I also design websites and apps.
   <img align="center" src="https://github-readme-stats.uiuxarghya.vercel.app/api/top-langs/?username=uiuxarghya&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+<a href="https://github.com/innotecc/innotecc">
+  <img align="center" src="https://github-readme-stats.uiuxarghya.vercel.app/api/pin/?username=innotecc&repo=innotecc&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 <a href="https://github.com/uiuxarghya/foldexify">
   <img align="center" src="https://github-readme-stats.uiuxarghya.vercel.app/api/pin/?username=uiuxarghya&repo=foldexify&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/openpingg/openpingg">
-  <img align="center" src="https://github-readme-stats.uiuxarghya.vercel.app/api/pin/?username=openpingg&repo=openpingg&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 ## Visitors</br>
