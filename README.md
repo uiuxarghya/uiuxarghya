@@ -2,9 +2,15 @@
 
 [![Header](https://raw.githubusercontent.com/uiuxarghya/uiuxarghya/main/assets/header1.png "Header")](https://github.com/uiuxarghya)
 
-<a href="https://dev.to/uiuxarghya">
-  <img src="/assets/logos/dev.to.svg" alt="Arghya Ghosh's DEV Community Profile" height="30" width="30">
-</a>
+[![](https://img.shields.io/badge/Twitter-informational?style=flat&logo=Twitter&logoColor=white&color=1DA1F2)](https://twitter.com/uiuxarghya)
+[![](https://img.shields.io/badge/Instagram-informational?style=flat&logo=Instagram&logoColor=white&color=E4405F)](https://instagram.com/uiuxarghya)
+[![](https://img.shields.io/badge/Facebook-informational?style=flat&logo=Facebook&logoColor=white&color=1877F2)](https://facebook.com/uiuxarghya)
+[![](https://img.shields.io/badge/Dribbble-informational?style=flat&logo=Dribbble&logoColor=white&color=EA4C89)](https://dribbble.com/uiuxarghya)
+[![](https://img.shields.io/badge/Behance-informational?style=flat&logo=Behance&logoColor=white&color=1769FF)](https://behance.net/uiuxarghya)
+[![](https://img.shields.io/badge/Medium-informational?style=flat&logo=Medium&logoColor=white&color=000000)](https://medium.com/uiuxarghya)
+[![](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=LinkedIn&logoColor=white&color=0A66C2)](https://in.linkedin.com/in/uiuxarghya)
+[![](https://img.shields.io/badge/DEV-informational?style=flat&logo=devdotto&logoColor=white&color=0A0A0A)](https://dev.to/uiuxarghya)
+
 <!--------------------
 ![GitHub followers](https://img.shields.io/github/followers/uiuxarghya?label=Follow&style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/uiuxarghya/uiuxarghya?style=social)
@@ -15,24 +21,26 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/uiuxarghya/uiuxarghya/main/assets/wave.gif" width="30px">
 
-My name is Arghya Ghosh and I'm a software developer and designer. I'm from India, living in Kolkata and currently studying in Class 12.
-
-## 💻 Developing & Coding
-
-Apart from coding ,I also design websites and apps.
-
+I am **Arghya Ghosh** and I'm a junior software developer and ui designer. I'm from Kolkata,India and currently studying in Class 12. 
+Apart from 💻 coding , I also design websites and apps.
 
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Windows_10-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-HTML_5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CSS_3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Comand_Prompt-informational?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABmJLR0QA/wD/AP+gvaeTAAAAtUlEQVQokZ2SIW4CYRBG3xBWFFFHcLQL9+AISFwPsabXIsHU1zYcYSFYBCR1YF4NS7YL7A986puZ72VGDDypqIw6BvJEfhURq3OljtSjaR3VHKBzYodAdseFGfAG0K01D8AiAU4rUwd/I2LWRqnbyneuDD/UQWLzJQjsgS+1/yi4BF6A90fBT6CIiB/1Wy3VeTPUbTYioqj5ya2NFbgBXtVd23lA75T993I5ME6AZUSsE5l2/QE21V8quw/TuwAAAABJRU5ErkJggg==&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CDN-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CDN-vercel-informational?style=flat&logo=vercel&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/Hyper-informational?style=flat&logo=Hyper&logoColor=white&color=000000)
+![](https://img.shields.io/badge/Comand_Prompt-informational?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABmJLR0QA/wD/AP+gvaeTAAAAtUlEQVQokZ2SIW4CYRBG3xBWFFFHcLQL9+AISFwPsabXIsHU1zYcYSFYBCR1YF4NS7YL7A986puZ72VGDDypqIw6BvJEfhURq3OljtSjaR3VHKBzYodAdseFGfAG0K01D8AiAU4rUwd/I2LWRqnbyneuDD/UQWLzJQjsgS+1/yi4BF6A90fBT6CIiB/1Wy3VeTPUbTYioqj5ya2NFbgBXtVd23lA75T993I5ME6AZUSsE5l2/QE21V8quw/TuwAAAABJRU5ErkJggg==&logoColor=white&color=2bbc8a)
+
+#### Programming Languages
+![](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=007396)
+![](https://img.shields.io/badge/HTML_5-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
+![](https://img.shields.io/badge/CSS_3-informational?style=flat&logo=css3&logoColor=white&color=1572B6)
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=black&color=F7DF1E)
+
+#### For Hosting:
+![](https://img.shields.io/badge/Netlify-informational?style=flat&logo=netlify&logoColor=white&color=00C7B7)
+![](https://img.shields.io/badge/Vercel-informational?style=flat&logo=vercel&logoColor=white&color=000000)
+![](https://img.shields.io/badge/Heroku-informational?style=flat&logo=heroku&logoColor=white&color=430098)
+
 
 ##  💻 My workspace
 
