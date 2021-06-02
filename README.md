@@ -11,6 +11,7 @@
 [![](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=LinkedIn&logoColor=white&color=0A66C2)](https://in.linkedin.com/in/uiuxarghya)
 [![](https://img.shields.io/badge/DEV-informational?style=flat&logo=devdotto&logoColor=white&color=0A0A0A)](https://dev.to/uiuxarghya)
 
+
 <!--------------------
 ![GitHub followers](https://img.shields.io/github/followers/uiuxarghya?label=Follow&style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/uiuxarghya/uiuxarghya?style=social)
@@ -19,7 +20,9 @@
 ![Instagram](https://img.shields.io/badge/-E4405F?logo=instagram&label=Follow&style=social)
 ------------------------>
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/uiuxarghya/uiuxarghya/main/assets/wave.gif" width="30px">
+#### [`GitHub Graduate 2021`](https://education.github.com/graduation/yearbook?sort=az&page=66&search=uiuxarghya#uiuxarghya)
+
+# Hello, folks! <img src="https://raw.githubusercontent.com/uiuxarghya/uiuxarghya/main/assets/wave.gif" width="30px"> 
 
 I am **Arghya Ghosh** and I'm a junior software developer and ui designer. I'm from Kolkata,India and currently studying in Class 12. 
 Apart from 💻 coding , I also design websites and apps.
