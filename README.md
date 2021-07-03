@@ -7,7 +7,7 @@
 [![](https://img.shields.io/badge/Facebook-informational?style=flat&logo=Facebook&logoColor=white&color=1877F2)](https://facebook.com/uiuxarghya)
 [![](https://img.shields.io/badge/Dribbble-informational?style=flat&logo=Dribbble&logoColor=white&color=EA4C89)](https://dribbble.com/uiuxarghya)
 [![](https://img.shields.io/badge/Behance-informational?style=flat&logo=Behance&logoColor=white&color=1769FF)](https://behance.net/uiuxarghya)
-[![](https://img.shields.io/badge/Medium-informational?style=flat&logo=Medium&logoColor=white&color=000000)](https://medium.com/uiuxarghya)
+[![](https://img.shields.io/badge/Medium-informational?style=flat&logo=Medium&logoColor=white&color=000000)](https://uiuxarghya.medium.com/)
 [![](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=LinkedIn&logoColor=white&color=0A66C2)](https://in.linkedin.com/in/uiuxarghya)
 [![](https://img.shields.io/badge/DEV-informational?style=flat&logo=devdotto&logoColor=white&color=0A0A0A)](https://dev.to/uiuxarghya)
 
