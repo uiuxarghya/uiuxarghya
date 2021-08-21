@@ -32,7 +32,7 @@ Apart from 💻 coding , I also design websites and apps.
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
 ![](https://img.shields.io/badge/Hyper-informational?style=flat&logo=Hyper&logoColor=white&color=000000)
-![](https://img.shields.io/badge/Comand_Prompt-informational?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABmJLR0QA/wD/AP+gvaeTAAAAtUlEQVQokZ2SIW4CYRBG3xBWFFFHcLQL9+AISFwPsabXIsHU1zYcYSFYBCR1YF4NS7YL7A986puZ72VGDDypqIw6BvJEfhURq3OljtSjaR3VHKBzYodAdseFGfAG0K01D8AiAU4rUwd/I2LWRqnbyneuDD/UQWLzJQjsgS+1/yi4BF6A90fBT6CIiB/1Wy3VeTPUbTYioqj5ya2NFbgBXtVd23lA75T993I5ME6AZUSsE5l2/QE21V8quw/TuwAAAABJRU5ErkJggg==&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/PowerShell-informational?style=flat&logo=PowerShell&logoColor=white&color=2bbc8a)
 
 #### Programming Languages
 ![](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=007396)
