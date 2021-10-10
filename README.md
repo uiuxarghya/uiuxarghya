@@ -33,6 +33,11 @@ Apart from 💻 coding , I also design websites and apps.
 ![](https://img.shields.io/badge/VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
 ![](https://img.shields.io/badge/Hyper-informational?style=flat&logo=Hyper&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/PowerShell-informational?style=flat&logo=PowerShell&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Google_Chrome-informational?style=flat&logo=google-chrome&logoColor=white&color=4285F4)
+![](https://img.shields.io/badge/Firefox-informational?style=flat&logo=firefoxbrowser&logoColor=white&color=FF7139)
+
+
+
 
 #### Programming Languages
 ![](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=007396)
