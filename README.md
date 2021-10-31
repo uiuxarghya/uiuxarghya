@@ -38,7 +38,6 @@ Apart from 💻 coding , I also design websites and apps.
 
 
 
-
 #### Programming Languages
 ![](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=007396)
 ![](https://img.shields.io/badge/HTML_5-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
