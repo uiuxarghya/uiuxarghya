@@ -62,21 +62,18 @@ Apart from 💻 coding , I also design websites and apps.
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/uiuxarghya/uiuxarghya">
-  <img align="center" src="https://github-readme-stats.uiuxarghya.vercel.app/api?username=uiuxarghya&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Arghya's GitHub Stats" />
-</a>
 
-<a href="https://github.com/uiuxarghya/uiuxarghya">
-  <img align="center" src="https://github-readme-stats.uiuxarghya.vercel.app/api/top-langs/?username=uiuxarghya&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=uiuxarghya&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=uiuxarghya&date_format=n%2Fj%5B%2FY%5D&border=FFFFFF&ring=2BBC8A&currStreakNum=FFFFFF&stroke=FFFFFF&background=1D1F21&sideNums=FFFFFF&sideLabels=2BBC8A&dates=ECECEC&currStreakLabel=2BBC8A" />
+</p>
 
 <a href="https://github.com/javaistic/javaistic">
-  <img align="center" src="https://github-readme-stats.uiuxarghya.vercel.app/api/pin/?username=javaistic&repo=javaistic&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=javaistic&repo=javaistic&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/devsnippetshq/devsnippets">
-  <img align="center" src="https://github-readme-stats.uiuxarghya.vercel.app/api/pin/?username=devsnippetshq&repo=devsnippets&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsnippetshq&repo=devsnippets&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 ## Visitors</br>
