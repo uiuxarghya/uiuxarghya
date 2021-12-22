@@ -58,13 +58,14 @@ Apart from 💻 coding , I also design websites and apps.
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=uiuxarghya&date_format=n%2Fj%5B%2FY%5D&border=FFFFFF&ring=2BBC8A&currStreakNum=FFFFFF&stroke=FFFFFF&background=1D1F21&sideNums=FFFFFF&sideLabels=2BBC8A&dates=ECECEC&currStreakLabel=2BBC8A" />
 </p>
 
-<a href="https://github.com/javaistic/javaistic">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=javaistic&repo=javaistic&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<p align="center">
+ <a href="https://github.com/javaistic/javaistic">
+  <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=javaistic&repo=javaistic&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
-<a href="https://github.com/devsnippetshq/devsnippets">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsnippetshq&repo=devsnippets&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+ <a href="https://github.com/devsnippetshq/devsnippets">
+  <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devsnippetshq&repo=devsnippets&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+</p>
 
 ## Visitors</br>
   <a href="#"><img src="https://badges.pufler.dev/visits/uiuxarghya/uiuxarghya"></a>
