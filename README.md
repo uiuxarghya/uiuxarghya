@@ -65,5 +65,9 @@ Apart from 💻 coding , I also design websites and apps.
 </a>
 </p>
 
+#### Weekly development breakdown 👨🏻‍💻
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## Visitors</br>
   <a href="#"><img src="https://badges.pufler.dev/visits/uiuxarghya/uiuxarghya"></a>
