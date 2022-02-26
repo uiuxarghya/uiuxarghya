@@ -68,7 +68,7 @@ Apart from 💻 coding , I also design websites and apps.
 #### Weekly development breakdown 👨🏻‍💻
 <!--START_SECTION:waka-->
 ```text
-From: 16 February, 2022 - To: 23 February, 2022
+From: 17 February, 2022 - To: 24 February, 2022
 
 JavaScript   25 hrs 50 mins  ██████████████████████▓░░   90.51 % 
 JSON         1 hr 26 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
