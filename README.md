@@ -12,7 +12,10 @@
 [![](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=LinkedIn&logoColor=white&color=0A66C2)](https://in.linkedin.com/in/uiuxarghya)
 [![](https://img.shields.io/badge/DEV-informational?style=flat&logo=devdotto&logoColor=white&color=0A0A0A)](https://dev.to/uiuxarghya)
 [![](https://img.shields.io/badge/hashnode-informational?style=flat&logo=hashnode&logoColor=white&color=2962FF)](https://uiuxarghya.hashnode.dev) 
+
 [**`More GitHub Metrics`**](https://metrics.lecoq.io/about/uiuxarghya)
+[`GitHub Graduate 2021`](https://education.github.com/graduation/yearbook?sort=az&page=66&search=uiuxarghya#uiuxarghya)
+
 
 
 <!--------------------
@@ -22,8 +25,6 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/uiuxarghya?label=Follow&style=social)
 ![Instagram](https://img.shields.io/badge/-E4405F?logo=instagram&label=Follow&style=social)
 ------------------------>
-
-#### [`GitHub Graduate 2021`](https://education.github.com/graduation/yearbook?sort=az&page=66&search=uiuxarghya#uiuxarghya)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/uiuxarghya/uiuxarghya/main/assets/wave.gif" width="30px"> 
 
