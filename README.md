@@ -11,7 +11,8 @@
 [![](https://img.shields.io/badge/Medium-informational?style=flat&logo=Medium&logoColor=white&color=000000)](https://uiuxarghya.medium.com/)
 [![](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=LinkedIn&logoColor=white&color=0A66C2)](https://in.linkedin.com/in/uiuxarghya)
 [![](https://img.shields.io/badge/DEV-informational?style=flat&logo=devdotto&logoColor=white&color=0A0A0A)](https://dev.to/uiuxarghya)
-[![](https://img.shields.io/badge/hashnode-informational?style=flat&logo=hashnode&logoColor=white&color=2962FF)](https://uiuxarghya.hashnode.dev)
+[![](https://img.shields.io/badge/hashnode-informational?style=flat&logo=hashnode&logoColor=white&color=2962FF)](https://uiuxarghya.hashnode.dev) 
+[**`More GitHub Metrics`**](https://metrics.lecoq.io/about/uiuxarghya)
 
 
 <!--------------------
