@@ -85,3 +85,12 @@ Other        24 mins         ▒░░░░░░░░░░░░░░░░
 
 ## Visitors</br>
   <a href="#"><img src="https://badges.pufler.dev/visits/uiuxarghya/uiuxarghya"></a>
+  
+## Support Me 
+<a href="https://www.buymeacoffee.com/uiuxarghya" target="_blank">
+ <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 36px !important" >
+</a>
+&nbsp;
+<a href='https://ko-fi.com/uiuxarghya' target='_blank'>
+ <img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi5.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+</a>
