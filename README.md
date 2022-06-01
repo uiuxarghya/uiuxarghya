@@ -26,7 +26,7 @@
 ![Instagram](https://img.shields.io/badge/-E4405F?logo=instagram&label=Follow&style=social)
 ------------------------>
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/uiuxarghya/uiuxarghya/main/assets/wave.gif" width="30px"> 
+# Hello, folks! <img src="https://raw.githubusercontent.com/uiuxarghya/uiuxarghya/main/assets/wave.gif" width="30"> 
 
 I am **Arghya Ghosh** and I'm a junior software developer and ui designer. I'm from Kolkata,India and currently studying in Class 12. 
 Apart from 💻 coding , I also design websites and apps.
