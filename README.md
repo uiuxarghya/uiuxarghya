@@ -62,8 +62,8 @@ Apart from 💻 coding , I also design websites and apps.
  <a href="https://github.com/javaistic/javaistic">
   <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=javaistic&repo=javaistic&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=161b22" />
 </a>
- <a href="https://github.com/uiuxarghya/fontium">
-  <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uiuxarghya&repo=fontium&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=161b22" />
+ <a href="https://github.com/uiuxarghya/8bits">
+  <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uiuxarghya&repo=8bits&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=161b22" />
 </a>
 </p>
 
