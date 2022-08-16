@@ -82,9 +82,6 @@ Other        3 mins          ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-## Visitors</br>
-  <a href="#"><img src="https://badges.pufler.dev/visits/uiuxarghya/uiuxarghya"></a>
   
 ## Support Me 
 <a href="https://www.buymeacoffee.com/uiuxarghya" target="_blank">
