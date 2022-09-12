@@ -71,7 +71,7 @@ Apart from 💻 coding , I also design websites and apps.
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 September 2022 - To: 09 September 2022
+From: 03 September 2022 - To: 10 September 2022
 
 JavaScript   25 mins         █████████████████████▒░░░   85.91 %
 Other        2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
