@@ -2,6 +2,7 @@
 
 [![Header](https://raw.githubusercontent.com/uiuxarghya/uiuxarghya/main/assets/header1.png "Header")](https://github.com/uiuxarghya)
 
+![Follow Me On](https://img.shields.io/badge/-informational?&label=Follow+Me+On&style=social)
 [![](https://img.shields.io/badge/Twitter-informational?style=flat&logo=Twitter&logoColor=white&color=1DA1F2)](https://twitter.com/uiuxarghya)
 [![](https://img.shields.io/badge/Instagram-informational?style=flat&logo=Instagram&logoColor=white&color=E4405F)](https://instagram.com/uiuxarghya)
 [![](https://img.shields.io/badge/Facebook-informational?style=flat&logo=Facebook&logoColor=white&color=1877F2)](https://facebook.com/uiuxarghya)
@@ -13,14 +14,11 @@
 [![](https://img.shields.io/badge/DEV-informational?style=flat&logo=devdotto&logoColor=white&color=0A0A0A)](https://dev.to/uiuxarghya)
 [![](https://img.shields.io/badge/hashnode-informational?style=flat&logo=hashnode&logoColor=white&color=2962FF)](https://uiuxarghya.hashnode.dev) 
 
-[**`More GitHub Metrics`**](https://metrics.lecoq.io/about/uiuxarghya)
-[`GitHub Graduate 2021`](https://education.github.com/graduation/yearbook?sort=az&page=66&search=uiuxarghya#uiuxarghya)
-
 
 
 <!--------------------
 ![GitHub followers](https://img.shields.io/github/followers/uiuxarghya?label=Follow&style=social)
-![GitHub Repo stars](https://img.shields.io/github/stars/uiuxarghya/uiuxarghya?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/uiuxarghya?style=social)
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/uiuxarghya?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/uiuxarghya?label=Follow&style=social)
 ![Instagram](https://img.shields.io/badge/-E4405F?logo=instagram&label=Follow&style=social)
@@ -57,7 +55,7 @@ Apart from 💻 coding , I also design websites and apps.
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=uiuxarghya&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=161b22" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=uiuxarghya&date_format=n%2Fj%5B%2FY%5D&border=FFFFFF&ring=2BBC8A&currStreakNum=FFFFFF&stroke=FFFFFF&background=161B22&sideNums=FFFFFF&sideLabels=2BBC8A&dates=ECECEC&currStreakLabel=2BBC8A" />
 </p>
-
+<!--------------------
 <p align="center">
  <a href="https://github.com/javaistic/javaistic">
   <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=javaistic&repo=javaistic&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=161b22" />
@@ -66,6 +64,17 @@ Apart from 💻 coding , I also design websites and apps.
   <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uiuxarghya&repo=8bits&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=161b22" />
 </a>
 </p>
+-------------------->
+
+##### PRODUCTS
+
+- [🧑‍💻 Javaistic](https://javaistic.vercel.app), a website for learning java for free. 
+- [🔗 8bits](https://github.com/uiuxarghya/8bits), a serverless url shortener app.
+
+##### WORKING ON
+
+#
+If you'd like to discuss any sort of opportunity, feel free to [contact me](mailto:uiuxarghya@gmail.com).
 
 #### Weekly development breakdown 👨🏻‍💻
 <!--START_SECTION:waka-->
