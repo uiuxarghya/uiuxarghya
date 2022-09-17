@@ -61,7 +61,7 @@ I am **Arghya Ghosh** and I'm a software developer and ui designer. I'm from Kol
 -------------------->
 
 <details>
-<summary><h4>Weekly development breakdown 👨🏻‍💻</h4></summary>
+<summary><h4>Weekly development breakdown 👨🏻‍💻</h4> (click to open)</summary>
 
 <!--START_SECTION:waka-->
 
