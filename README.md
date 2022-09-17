@@ -16,7 +16,6 @@
 [![GitHub Metrics](https://img.shields.io/badge/-informational?&label=GitHub+Metrics&style=social)](https://metrics.lecoq.io/about/uiuxarghya)
 [![GitHub Graduate 2021](https://img.shields.io/badge/-informational?&label=GitHub+Graduate+2021&style=social)](https://education.github.com/graduation/yearbook?sort=az&page=66&search=uiuxarghya#uiuxarghya)
 
-
 <!--------------------
 ![GitHub followers](https://img.shields.io/github/followers/uiuxarghya?label=Follow&style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/uiuxarghya?style=social)
@@ -29,9 +28,7 @@
 
 I am **Arghya Ghosh** and I'm a software developer and ui designer. I'm from Kolkata, India and currently pursuing B.Tech in CSE. Apart from 💻 coding, I also design websites and apps.
 
-
 ## 🔧 Technologies & Tools
-
 
 | **Categories**  |   |
 |---|---|
@@ -39,17 +36,14 @@ I am **Arghya Ghosh** and I'm a software developer and ui designer. I'm from Kol
 | **Tools** |![](https://img.shields.io/badge/VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC) ![](https://img.shields.io/badge/Hyper-informational?style=flat&logo=Hyper&logoColor=white&color=000000) ![](https://img.shields.io/badge/PowerShell-informational?style=flat&logo=PowerShell&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Google_Chrome-informational?style=flat&logo=google-chrome&logoColor=white&color=4285F4) ![](https://img.shields.io/badge/Firefox-informational?style=flat&logo=firefoxbrowser&logoColor=white&color=FF7139)|
 | For Hosting | ![](https://img.shields.io/badge/Netlify-informational?style=flat&logo=netlify&logoColor=white&color=00C7B7) ![](https://img.shields.io/badge/Vercel-informational?style=flat&logo=vercel&logoColor=white&color=000000) ![](https://img.shields.io/badge/Heroku-informational?style=flat&logo=heroku&logoColor=white&color=430098)  |
 
-##  💻 My workspace
+## 💻 My workspace
 
 ![](https://img.shields.io/badge/Windows_11-informational?style=flat&logo=Windows11&logoColor=white&color=0078d6)
 ![](https://img.shields.io/badge/Intel-i5_9th_Gen-informational?style=flat&logo=intel&logoColor=white&color=0071C5)
 ![](https://img.shields.io/badge/RAM-8_GB-informational?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABmJLR0QA/wD/AP+gvaeTAAAAqUlEQVQokaWSsQ3CQAxF36GIMlQMAbkFaOgoGQCJIdiKIl3YIYxAg6gjSso0n8YJLhC5E1+yLJ39zpb84V9JCpK2lqOkpUX0tW/gQlJnuZZ0tKh9begPBq2BfeJyTQjhNkxrJd0lPTWtFmBmv5TABbgmTCwBCvdwSlwVPzFbxXTLqAZ4ADsPvhLADRCBDj7nWAEHYD4B98B5PIfBWQbwoLdc5SxX/bRcrt4PhcIRoFAWyAAAAABJRU5ErkJggg==&logoColor=white&color=GREEN)
 ![](https://img.shields.io/badge/NVIDIA-GEFORCE_GTX_1650-informational?style=flat&logo=nvidia&logoColor=white&color=76bc00)
 
-
-
 ## &#x1f4c8; GitHub Stats
-
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=uiuxarghya&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=161b22" />
@@ -66,17 +60,9 @@ I am **Arghya Ghosh** and I'm a software developer and ui designer. I'm from Kol
 </p>
 -------------------->
 
-##### PRODUCTS
+<details>
+<summary><h4>Weekly development breakdown 👨🏻‍💻</h4></summary>
 
-- [🧑‍💻 Javaistic](https://javaistic.vercel.app), a website for learning java for free.
-- [🔗 8bits](https://github.com/uiuxarghya/8bits), a serverless url shortener app.
-
-##### WORKING ON
-
-#
-If you'd like to discuss any sort of opportunity, feel free to [contact me](mailto:uiuxarghya@gmail.com).
-
-#### Weekly development breakdown 👨🏻‍💻
 <!--START_SECTION:waka-->
 
 ```text
@@ -91,8 +77,21 @@ Other        6 mins          ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+</details>
+
+##### PRODUCTS
+
+- [🧑‍💻 Javaistic](https://javaistic.vercel.app), a website for learning java for free.
+- [🔗 8bits](https://github.com/uiuxarghya/8bits), a serverless url shortener app.
+
+##### WORKING ON
+
+#
+
+If you'd like to discuss any sort of opportunity, feel free to [contact me](mailto:uiuxarghya@gmail.com).
 
 ## Support Me
+
 <a href="https://www.buymeacoffee.com/uiuxarghya" target="_blank">
  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 36px !important" >
 </a>
