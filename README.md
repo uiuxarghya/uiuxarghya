@@ -1,6 +1,6 @@
 <!-- GitHub Profile README -->
 
-[![Header](https://raw.githubusercontent.com/uiuxarghya/uiuxarghya/main/assets/header1.png "Header")](https://github.com/uiuxarghya)
+[![Header](https://raw.githubusercontent.com/uiuxarghya/uiuxarghya/main/.github/assets/header.png)](https://github.com/uiuxarghya)
 
 ![Follow Me On](https://img.shields.io/badge/-informational?&label=Follow+Me+On&style=social)
 [![](https://img.shields.io/badge/Twitter-informational?style=flat&logo=Twitter&logoColor=white&color=1DA1F2)](https://twitter.com/uiuxarghya)
@@ -12,8 +12,9 @@
 [![](https://img.shields.io/badge/Medium-informational?style=flat&logo=Medium&logoColor=white&color=000000)](https://uiuxarghya.medium.com/)
 [![](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=LinkedIn&logoColor=white&color=0A66C2)](https://in.linkedin.com/in/uiuxarghya)
 [![](https://img.shields.io/badge/DEV-informational?style=flat&logo=devdotto&logoColor=white&color=0A0A0A)](https://dev.to/uiuxarghya)
-[![](https://img.shields.io/badge/hashnode-informational?style=flat&logo=hashnode&logoColor=white&color=2962FF)](https://uiuxarghya.hashnode.dev) 
-
+[![](https://img.shields.io/badge/hashnode-informational?style=flat&logo=hashnode&logoColor=white&color=2962FF)](https://uiuxarghya.hashnode.dev)
+[![GitHub Metrics](https://img.shields.io/badge/-informational?&label=GitHub+Metrics&style=social)](https://metrics.lecoq.io/about/uiuxarghya)
+[![GitHub Graduate 2021](https://img.shields.io/badge/-informational?&label=GitHub+Graduate+2021&style=social)](https://education.github.com/graduation/yearbook?sort=az&page=66&search=uiuxarghya#uiuxarghya)
 
 
 <!--------------------
@@ -24,10 +25,9 @@
 ![Instagram](https://img.shields.io/badge/-E4405F?logo=instagram&label=Follow&style=social)
 ------------------------>
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/uiuxarghya/uiuxarghya/main/assets/wave.gif" width="30"> 
+# Hello, folks! <img src="https://raw.githubusercontent.com/uiuxarghya/uiuxarghya/main/.github/assets/wave.gif" width="30">
 
-I am **Arghya Ghosh** and I'm a junior software developer and ui designer. I'm from Kolkata,India and currently studying in Class 12. 
-Apart from 💻 coding , I also design websites and apps.
+I am **Arghya Ghosh** and I'm a software developer and ui designer. I'm from Kolkata, India and currently pursuing B.Tech in CSE. Apart from 💻 coding, I also design websites and apps.
 
 
 ## 🔧 Technologies & Tools
@@ -41,12 +41,12 @@ Apart from 💻 coding , I also design websites and apps.
 
 ##  💻 My workspace
 
-![](https://img.shields.io/badge/Windows_11-informational?style=flat&logo=Windows&logoColor=white&color=0078d6)
+![](https://img.shields.io/badge/Windows_11-informational?style=flat&logo=Windows11&logoColor=white&color=0078d6)
 ![](https://img.shields.io/badge/Intel-i5_9th_Gen-informational?style=flat&logo=intel&logoColor=white&color=0071C5)
 ![](https://img.shields.io/badge/RAM-8_GB-informational?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABmJLR0QA/wD/AP+gvaeTAAAAqUlEQVQokaWSsQ3CQAxF36GIMlQMAbkFaOgoGQCJIdiKIl3YIYxAg6gjSso0n8YJLhC5E1+yLJ39zpb84V9JCpK2lqOkpUX0tW/gQlJnuZZ0tKh9begPBq2BfeJyTQjhNkxrJd0lPTWtFmBmv5TABbgmTCwBCvdwSlwVPzFbxXTLqAZ4ADsPvhLADRCBDj7nWAEHYD4B98B5PIfBWQbwoLdc5SxX/bRcrt4PhcIRoFAWyAAAAABJRU5ErkJggg==&logoColor=white&color=GREEN)
 ![](https://img.shields.io/badge/NVIDIA-GEFORCE_GTX_1650-informational?style=flat&logo=nvidia&logoColor=white&color=76bc00)
 
- 
+
 
 ## &#x1f4c8; GitHub Stats
 
@@ -68,7 +68,7 @@ Apart from 💻 coding , I also design websites and apps.
 
 ##### PRODUCTS
 
-- [🧑‍💻 Javaistic](https://javaistic.vercel.app), a website for learning java for free. 
+- [🧑‍💻 Javaistic](https://javaistic.vercel.app), a website for learning java for free.
 - [🔗 8bits](https://github.com/uiuxarghya/8bits), a serverless url shortener app.
 
 ##### WORKING ON
@@ -91,8 +91,8 @@ Other        6 mins          ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-  
-## Support Me 
+
+## Support Me
 <a href="https://www.buymeacoffee.com/uiuxarghya" target="_blank">
  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 36px !important" >
 </a>
