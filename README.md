@@ -66,7 +66,7 @@ I am **Arghya Ghosh** and I'm a software developer and ui designer. I'm from Kol
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 September 2022 - To: 30 September 2022
+From: 24 September 2022 - To: 01 October 2022
 
 JavaScript   2 hrs 51 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.12 %
 YAML         2 hrs 4 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.98 %
