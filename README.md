@@ -28,13 +28,17 @@
 
 I am **Arghya Ghosh** and I'm a software developer and ui designer. I'm from Kolkata, India and currently pursuing B.Tech in CSE. Apart from 💻 coding, I also design websites and apps.
 
-## 🔧 Technologies & Tools
 
+## 🔧 Technologies & Tools
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,c,cpp,react,nextjs,tailwindcss,mongodb,graphql,vscode,vercel,netlify)](https://skillicons.dev)
+
+<!--------------------
 | **Categories**  |   |
 |---|---|
 | **Programming Languages** |![](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=007396) ![](https://img.shields.io/badge/HTML_5-informational?style=flat&logo=html5&logoColor=white&color=E34F26) ![](https://img.shields.io/badge/CSS_3-informational?style=flat&logo=css3&logoColor=white&color=1572B6) ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=black&color=F7DF1E) ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=61DAFB) ![](https://img.shields.io/badge/Next_JS-informational?style=flat&logo=next.js&logoColor=white&color=000000)  |
 | **Tools** |![](https://img.shields.io/badge/VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC) ![](https://img.shields.io/badge/Hyper-informational?style=flat&logo=Hyper&logoColor=white&color=000000) ![](https://img.shields.io/badge/PowerShell-informational?style=flat&logo=PowerShell&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Google_Chrome-informational?style=flat&logo=google-chrome&logoColor=white&color=4285F4) ![](https://img.shields.io/badge/Firefox-informational?style=flat&logo=firefoxbrowser&logoColor=white&color=FF7139)|
 | For Hosting | ![](https://img.shields.io/badge/Netlify-informational?style=flat&logo=netlify&logoColor=white&color=00C7B7) ![](https://img.shields.io/badge/Vercel-informational?style=flat&logo=vercel&logoColor=white&color=000000) ![](https://img.shields.io/badge/Heroku-informational?style=flat&logo=heroku&logoColor=white&color=430098)  |
+------------------->
 
 ## 💻 My workspace
 
