@@ -73,14 +73,13 @@ I am **Arghya Ghosh** and I'm a software developer and ui designer. I'm from Kol
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 February 2023 - To: 04 March 2023
+From: 26 February 2023 - To: 05 March 2023
 
-TypeScript   4 hrs 42 mins   ███████████████████░░░░░░   75.44 %
-JSON         41 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.02 %
-Python       20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
-Markdown     15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
-CSS          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-C            5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+TypeScript   5 hrs 49 mins   ████████████████████▒░░░░   81.03 %
+JSON         31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
+CSS          20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
+Python       13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+Other        11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
 ```
 
 <!--END_SECTION:waka-->
