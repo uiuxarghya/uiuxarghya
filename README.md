@@ -85,14 +85,16 @@ JSON         17 mins         ▓░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 </details>
 
-##### PRODUCTS
+##### PROJECTS
 
 - [🧑‍💻 Javaistic](https://javaistic.vercel.app), a website for learning java for free.
-- [🔗 8bits](https://github.com/uiuxarghya/8bits), a serverless url shortener app.
+- [🔗 8bits](https://8bits.vercel.app/), a serverless url shortener web app.
+- [☁️ WeatherEx](https://weatherex.vercel.app/), a next-gen weather web app.
+- [🔍 GitHub Profile Searcher](https://github-profile-search-five.vercel.app/), a minimal github profile search web app.
 
 ##### WORKING ON
 
-#
+- [🔗 8bits](https://github.com/uiuxarghya/8bits), a serverless url shortener web app.
 
 If you'd like to discuss any sort of opportunity, feel free to [contact me](mailto:uiuxarghya@gmail.com).
 
