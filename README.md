@@ -32,7 +32,7 @@ I am **Arghya Ghosh** and I'm a software developer and ui designer. I'm from Kol
 
 
 ## 🔧 Technologies & Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,c,cpp,react,nextjs,tailwindcss,mongodb,graphql,vscode,vercel,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,py,js,html,css,react,nextjs,tailwindcss,mongodb,graphql,vscode,vercel,netlify)](https://skillicons.dev)
 
 <!--------------------
 | **Categories**  |   |
