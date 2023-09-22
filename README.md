@@ -13,7 +13,7 @@
 [![](https://img.shields.io/badge/DEV-informational?style=flat&logo=devdotto&logoColor=white&color=0A0A0A)](https://dev.to/uiuxarghya)
 [![](https://img.shields.io/badge/hashnode-informational?style=flat&logo=hashnode&logoColor=white&color=2962FF)](https://uiuxarghya.hashnode.dev)
 [![GitHub Metrics](https://img.shields.io/badge/-informational?&label=GitHub+Metrics&style=social)](https://metrics.lecoq.io/about/uiuxarghya)
-
+![](https://komarev.com/ghpvc/?username=uiuxarghya)
 <!--------------------
 [![GitHub Graduate 2021](https://img.shields.io/badge/-informational?&label=GitHub+Graduate+2021&style=social)](https://education.github.com/graduation/yearbook?sort=az&page=66&search=uiuxarghya#uiuxarghya)
 -------------------->
