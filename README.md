@@ -72,7 +72,7 @@ I am **Arghya Ghosh** and I'm a software developer and ui designer. I'm from Kol
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 October 2023 - To: 22 October 2023
+From: 16 October 2023 - To: 23 October 2023
 
 C            58 mins         ████████████▒░░░░░░░░░░░░   49.49 %
 TypeScript   43 mins         █████████▒░░░░░░░░░░░░░░░   37.25 %
