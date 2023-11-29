@@ -72,13 +72,13 @@ I am **Arghya Ghosh** and I'm a software developer. I'm from Kolkata, India and 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 November 2023 - To: 27 November 2023
+From: 21 November 2023 - To: 28 November 2023
 
-TypeScript   2 hrs 28 mins   ██████████████████████▓░░   90.19 %
-JSON         10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
-Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-CSS          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+TypeScript   2 hrs 31 mins   ██████████████████████▓░░   90.46 %
+JSON         10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
+Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+CSS          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 ```
 
 <!--END_SECTION:waka-->
