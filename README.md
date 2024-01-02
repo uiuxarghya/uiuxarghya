@@ -72,7 +72,7 @@ I am **Arghya Ghosh** and I'm a fullstack software developer. I'm from Kolkata, 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2023 - To: 31 December 2023
+From: 25 December 2023 - To: 01 January 2024
 
 TypeScript   49 mins         ████████████████▓░░░░░░░░   66.46 %
 TSConfig     15 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.83 %
