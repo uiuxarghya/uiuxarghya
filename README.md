@@ -28,7 +28,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/uiuxarghya/uiuxarghya/main/.github/assets/wave.gif" width="30">
 
-I am **Arghya Ghosh** and I'm a fullstack software developer. I'm from Kolkata, India and currently pursuing B.Tech in CSE. Apart from 💻 coding, I also design websites and apps.
+I'm **Arghya Ghosh**, a full-stack software developer based in Kolkata, India. Currently pursuing B.Tech in CSE. Apart from 💻 coding, I also design websites and apps.
 
 
 ## 🔧 Technologies & Tools
