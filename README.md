@@ -1,6 +1,6 @@
 <!-- GitHub Profile README -->
 
-[![Header](https://raw.githubusercontent.com/uiuxarghya/uiuxarghya/main/.github/assets/header.png)](https://github.com/uiuxarghya)
+[![Header](https://raw.githubusercontent.com/uiuxarghya/uiuxarghya/main/.github/assets/header.png)](https://github.com/uiuxarghya) 
 
 ![Follow Me On](https://img.shields.io/badge/-informational?&label=Follow+Me+On&style=social)
 [![](https://img.shields.io/badge/Twitter-informational?style=flat&logo=Twitter&logoColor=white&color=1DA1F2)](https://twitter.com/uiuxarghya)
