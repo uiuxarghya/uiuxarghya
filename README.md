@@ -4,8 +4,8 @@
 
 ![Follow Me On](https://img.shields.io/badge/-informational?&label=Follow+Me+On&style=social)
 [![](https://img.shields.io/badge/Twitter-informational?style=flat&logo=Twitter&logoColor=white&color=1DA1F2)](https://twitter.com/uiuxarghya)
+[![](https://img.shields.io/badge/LeetCode-informational?style=flat&logo=Leetcode&color=282828)](https://leetcode.com/uiuxarghya)
 [![](https://img.shields.io/badge/Instagram-informational?style=flat&logo=Instagram&logoColor=white&color=E4405F)](https://instagram.com/uiuxarghya)
-[![](https://img.shields.io/badge/Facebook-informational?style=flat&logo=Facebook&logoColor=white&color=1877F2)](https://facebook.com/uiuxarghya)
 [![](https://img.shields.io/badge/Dribbble-informational?style=flat&logo=Dribbble&logoColor=white&color=EA4C89)](https://dribbble.com/uiuxarghya)
 [![](https://img.shields.io/badge/Behance-informational?style=flat&logo=Behance&logoColor=white&color=1769FF)](https://behance.net/uiuxarghya)
 [![](https://img.shields.io/badge/Medium-informational?style=flat&logo=Medium&logoColor=white&color=000000)](https://uiuxarghya.medium.com/)
@@ -21,6 +21,7 @@
 -------------------->
 
 <!--------------------
+[![](https://img.shields.io/badge/Facebook-informational?style=flat&logo=Facebook&logoColor=white&color=1877F2)](https://facebook.com/uiuxarghya)
 ![GitHub followers](https://img.shields.io/github/followers/uiuxarghya?label=Follow&style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/uiuxarghya?style=social)
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/uiuxarghya?style=social)
