@@ -31,7 +31,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/uiuxarghya/uiuxarghya/main/.github/assets/wave.gif" width="30">
 
-I'm **Arghya Ghosh**, a full-stack software developer based in Kolkata, India. Currently pursuing B.Tech in CSE. Apart from 💻 coding, I also design websites and apps.
+I'm **Arghya Ghosh**, a full-stack software developer based in Kolkata, India. Currently pursuing B.Tech in CSE. I have a passion for crafting innovative digital experiences. Expertise in creating responsive and user-friendly web applications. Always eager to learn and collaborate, exploring new opportunities to grow and contribute.
 
 
 ## 🔧 Technologies & Tools
