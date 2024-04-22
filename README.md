@@ -5,6 +5,7 @@
 ![Follow Me On](https://img.shields.io/badge/-informational?&label=Follow+Me+On&style=social)
 [![](https://img.shields.io/badge/Twitter-informational?style=flat&logo=Twitter&logoColor=white&color=1DA1F2)](https://twitter.com/uiuxarghya)
 [![](https://img.shields.io/badge/LeetCode-informational?style=flat&logo=Leetcode&color=282828)](https://leetcode.com/uiuxarghya)
+[![](https://img.shields.io/badge/Codeforces-informational?style=flat&logo=Codeforces&logoColor=1F8ACB&color=282828)](https://codeforces.com/profile/uiuxarghya)
 [![](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=LinkedIn&logoColor=white&color=0A66C2)](https://in.linkedin.com/in/uiuxarghya)
 [![](https://img.shields.io/badge/Instagram-informational?style=flat&logo=Instagram&logoColor=white&color=E4405F)](https://instagram.com/uiuxarghya)
 [![](https://img.shields.io/badge/Dribbble-informational?style=flat&logo=Dribbble&logoColor=white&color=EA4C89)](https://dribbble.com/uiuxarghya)
