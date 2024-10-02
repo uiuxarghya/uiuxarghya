@@ -36,7 +36,7 @@ I'm **Arghya Ghosh**, a full-stack software developer based in Kolkata, India. C
 
 
 ## 🔧 Technologies & Tools
-[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,py,js,ts,html,css,react,nextjs,git,express,tailwindcss,prisma,mongodb,graphql,vscode,vercel,netlify,bash,vim,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,py,js,ts,html,css,react,nextjs,git,express,tailwindcss,bun,prisma,mongodb,graphql,vscode,vercel,netlify,bash,vim,ubuntu)](https://skillicons.dev)
 
 <!--------------------
 | **Categories**  |   |
