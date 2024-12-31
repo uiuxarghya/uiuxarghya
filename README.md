@@ -90,15 +90,20 @@ HTML          10 mins         ▒░░░░░░░░░░░░░░░�
 
 ##### PROJECTS
 
-- [🧑‍💻 Javaistic](https://javaistic.vercel.app), a website for learning java for free.
-- [🔗 8bits](https://8bits.vercel.app/), a serverless url shortener web app.
-- [☁️ WeatherEx](https://weatherex.vercel.app/), a next-gen weather web app.
-- [🔍 GitHub Profile Searcher](https://github-profile-search-five.vercel.app/), a minimal github profile search web app.
+- 🧑‍💻 [Javaistic](https://javaistic.vercel.app) - a free java learning platform. (Open Source)
+- 🔗 [8bits](https://8bits.vercel.app) - a serverless url shortener.
+- 🤖 [Brave](https://braveai.vercel.app) - the ultimate interview suite. (Open Source)
+- 🍱 [OPBento](https://opbento.edgexhq.tech) - showcase your social links and github stats in a sleek grid. (Open Source)
+- 🧑🏻‍🎓 [SmartKaksha](https://smartkakshax.vercel.app) - the next-gen smart classroom.
+- 🏥 [Healthio](https://healthiox.vercel.app) - revolutionizing healthcare with tech.
+- ☁️ [WeatherEx](https://weatherex.vercel.app) - next-gen weather app.
+- 🔍 [GitHub Profile Searcher](https://github-profile-search-five.vercel.app) - a minimalist github profile search tool.
 
+<!--
 ##### WORKING ON
 
 - [🔗 8bits](https://github.com/uiuxarghya/8bits), a serverless url shortener web app.
-
+-->
 If you'd like to discuss any sort of opportunity, feel free to [contact me](mailto:uiuxarghya@gmail.com).
 
 ## Support Me
