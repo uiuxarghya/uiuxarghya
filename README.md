@@ -76,13 +76,13 @@ I'm **Arghya Ghosh**, a full-stack software developer based in Kolkata, India. C
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 August 2025 - To: 24 August 2025
+From: 18 August 2025 - To: 25 August 2025
 
-TypeScript   10 hrs 41 mins  ████████░░░░░░░░░░░░░░░░░   31.62 %
-Python       9 hrs 7 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.99 %
-Other        2 hrs 28 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
-Markdown     2 hrs 10 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
-Text         1 hr 58 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
+Python       9 hrs 19 mins   ███████▒░░░░░░░░░░░░░░░░░   29.66 %
+TypeScript   8 hrs 17 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.37 %
+Other        2 hrs 32 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
+Markdown     2 hrs 16 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
+Text         1 hr 58 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
 ```
 
 <!--END_SECTION:waka-->
