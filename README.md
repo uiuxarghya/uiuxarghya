@@ -3,7 +3,7 @@
 [![Header](https://raw.githubusercontent.com/uiuxarghya/uiuxarghya/main/.github/assets/header.png)](https://github.com/uiuxarghya) 
 
 ![Follow Me On](https://img.shields.io/badge/-informational?&label=Follow+Me+On&style=social)
-[![](https://img.shields.io/badge/Twitter-informational?style=flat&logo=X&logoColor=white&color=000000)](https://x.com/uiuxarghya)
+[![](https://img.shields.io/badge/Twitter-informational?style=flat&logo=X&logoColor=white&color=000000)](https://x.com/arghyaxcodes)
 [![](https://img.shields.io/badge/LeetCode-informational?style=flat&logo=Leetcode&color=282828)](https://leetcode.com/uiuxarghya)
 [![](https://img.shields.io/badge/Codeforces-informational?style=flat&logo=Codeforces&logoColor=1F8ACB&color=282828)](https://codeforces.com/profile/uiuxarghya)
 [![](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=LinkedIn&logoColor=white&color=0A66C2)](https://in.linkedin.com/in/uiuxarghya)
