@@ -6,31 +6,31 @@
 [![](https://img.shields.io/badge/Twitter-informational?style=flat&logo=X&logoColor=white&color=000000)](https://x.com/arghyaxcodes)
 [![](https://img.shields.io/badge/LeetCode-informational?style=flat&logo=Leetcode&color=282828)](https://leetcode.com/uiuxarghya)
 [![](https://img.shields.io/badge/Codeforces-informational?style=flat&logo=Codeforces&logoColor=1F8ACB&color=282828)](https://codeforces.com/profile/uiuxarghya)
-[![](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=LinkedIn&logoColor=white&color=0A66C2)](https://in.linkedin.com/in/uiuxarghya)
+[![](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=LinkedIn&logoColor=white&color=0A66C2)](https://in.linkedin.com/in/arghyaxcodes)
 [![](https://img.shields.io/badge/Instagram-informational?style=flat&logo=Instagram&logoColor=white&color=E4405F)](https://instagram.com/uiuxarghya)
 [![](https://img.shields.io/badge/Dribbble-informational?style=flat&logo=Dribbble&logoColor=white&color=EA4C89)](https://dribbble.com/uiuxarghya)
 [![](https://img.shields.io/badge/Behance-informational?style=flat&logo=Behance&logoColor=white&color=1769FF)](https://behance.net/uiuxarghya)
-[![](https://img.shields.io/badge/Medium-informational?style=flat&logo=Medium&logoColor=white&color=000000)](https://uiuxarghya.medium.com/)
+[![](https://img.shields.io/badge/Medium-informational?style=flat&logo=Medium&logoColor=white&color=000000)](https://arghyaxcodes.medium.com/)
 [![](https://img.shields.io/badge/DEV-informational?style=flat&logo=devdotto&logoColor=white&color=0A0A0A)](https://dev.to/uiuxarghya)
 [![](https://img.shields.io/badge/hashnode-informational?style=flat&logo=hashnode&logoColor=white&color=2962FF)](https://uiuxarghya.hashnode.dev)
-[![GitHub Metrics](https://img.shields.io/badge/-informational?&label=GitHub+Metrics&style=social)](https://metrics.lecoq.io/about/uiuxarghya)
-![Profile Views](https://komarev.com/ghpvc/?username=uiuxarghya)
-![GitHub followers](https://img.shields.io/github/followers/uiuxarghya?label=Followers&style=social)
+[![GitHub Metrics](https://img.shields.io/badge/-informational?&label=GitHub+Metrics&style=social)](https://metrics.lecoq.io/about/arghyaxcodes)
+![Profile Views](https://komarev.com/ghpvc/?username=arghyaxcodes)
+![GitHub followers](https://img.shields.io/github/followers/arghyaxcodes?label=Followers&style=social)
 
 <!--------------------
 [![GitHub Graduate 2021](https://img.shields.io/badge/-informational?&label=GitHub+Graduate+2021&style=social)](https://education.github.com/graduation/yearbook?sort=az&page=66&search=uiuxarghya#uiuxarghya)
 -------------------->
 
 <!--------------------
-[![](https://img.shields.io/badge/Facebook-informational?style=flat&logo=Facebook&logoColor=white&color=1877F2)](https://facebook.com/uiuxarghya)
-![GitHub followers](https://img.shields.io/github/followers/uiuxarghya?label=Follow&style=social)
-![GitHub Repo stars](https://img.shields.io/github/stars/uiuxarghya?style=social)
-![GitHub Sponsors](https://img.shields.io/github/sponsors/uiuxarghya?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/uiuxarghya?label=Follow&style=social)
+[![](https://img.shields.io/badge/Facebook-informational?style=flat&logo=Facebook&logoColor=white&color=1877F2)](https://facebook.com/arghyaxcodes)
+![GitHub followers](https://img.shields.io/github/followers/arghyaxcodes?label=Follow&style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/arghyaxcodes?style=social)
+![GitHub Sponsors](https://img.shields.io/github/sponsors/arghyaxcodes?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/arghyaxcodes?label=Follow&style=social)
 ![Instagram](https://img.shields.io/badge/-E4405F?logo=instagram&label=Follow&style=social)
 ------------------------>
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/uiuxarghya/uiuxarghya/main/.github/assets/wave.gif" width="30">
+# Hello, folks! <img src="https://raw.githubusercontent.com/arghyaxcodes/arghyaxcodes/main/.github/assets/wave.gif" width="30">
 
 I'm **Arghya Ghosh**, a full-stack software developer based in Kolkata, India. Currently pursuing B.Tech in CSE. I have a passion for crafting innovative digital experiences. I have expertise in creating responsive and user-friendly web applications. Always eager to learn and collaborate, exploring new opportunities to grow and contribute.
 
@@ -56,16 +56,16 @@ I'm **Arghya Ghosh**, a full-stack software developer based in Kolkata, India. C
 ## &#x1f4c8; GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=uiuxarghya&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=161b22" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=uiuxarghya&date_format=n%2Fj%5B%2FY%5D&border=FFFFFF&ring=2BBC8A&currStreakNum=FFFFFF&stroke=FFFFFF&background=161B22&sideNums=FFFFFF&sideLabels=2BBC8A&dates=ECECEC&currStreakLabel=2BBC8A&card_height=206" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=arghyaxcodes&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=161b22" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=arghyaxcodes&date_format=n%2Fj%5B%2FY%5D&border=FFFFFF&ring=2BBC8A&currStreakNum=FFFFFF&stroke=FFFFFF&background=161B22&sideNums=FFFFFF&sideLabels=2BBC8A&dates=ECECEC&currStreakLabel=2BBC8A&card_height=206" />
 </p>
 <!--------------------
 <p align="center">
  <a href="https://github.com/javaistic/javaistic">
   <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=javaistic&repo=javaistic&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=161b22" />
 </a>
- <a href="https://github.com/uiuxarghya/8bits">
-  <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uiuxarghya&repo=8bits&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=161b22" />
+ <a href="https://github.com/arghyaxcodes/8bits">
+  <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arghyaxcodes&repo=8bits&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=161b22" />
 </a>
 </p>
 -------------------->
@@ -102,7 +102,7 @@ Markdown     31 mins         █░░░░░░░░░░░░░░░░
 <!--
 ##### WORKING ON
 
-- [🔗 8bits](https://github.com/uiuxarghya/8bits), a serverless url shortener web app.
+- [🔗 8bits](https://github.com/arghyaxcodes/8bits), a serverless url shortener web app.
 -->
 If you'd like to discuss any sort of opportunity, feel free to [contact me](mailto:uiuxarghya@gmail.com).
 
