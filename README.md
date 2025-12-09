@@ -1,18 +1,18 @@
 <!-- GitHub Profile README -->
 
-[![Header](https://raw.githubusercontent.com/uiuxarghya/uiuxarghya/main/.github/assets/header.png)](https://github.com/uiuxarghya) 
+[![Header](https://raw.githubusercontent.com/arghyaxcodes/arghyaxcodes/main/.github/assets/header.png)](https://github.com/arghyaxcodes) 
 
 ![Follow Me On](https://img.shields.io/badge/-informational?&label=Follow+Me+On&style=social)
 [![](https://img.shields.io/badge/Twitter-informational?style=flat&logo=X&logoColor=white&color=000000)](https://x.com/arghyaxcodes)
-[![](https://img.shields.io/badge/LeetCode-informational?style=flat&logo=Leetcode&color=282828)](https://leetcode.com/uiuxarghya)
-[![](https://img.shields.io/badge/Codeforces-informational?style=flat&logo=Codeforces&logoColor=1F8ACB&color=282828)](https://codeforces.com/profile/uiuxarghya)
+[![](https://img.shields.io/badge/LeetCode-informational?style=flat&logo=Leetcode&color=282828)](https://leetcode.com/arghyaxcodes)
+[![](https://img.shields.io/badge/Codeforces-informational?style=flat&logo=Codeforces&logoColor=1F8ACB&color=282828)](https://codeforces.com/profile/arghyaxcodes)
 [![](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=LinkedIn&logoColor=white&color=0A66C2)](https://in.linkedin.com/in/arghyaxcodes)
-[![](https://img.shields.io/badge/Instagram-informational?style=flat&logo=Instagram&logoColor=white&color=E4405F)](https://instagram.com/uiuxarghya)
-[![](https://img.shields.io/badge/Dribbble-informational?style=flat&logo=Dribbble&logoColor=white&color=EA4C89)](https://dribbble.com/uiuxarghya)
-[![](https://img.shields.io/badge/Behance-informational?style=flat&logo=Behance&logoColor=white&color=1769FF)](https://behance.net/uiuxarghya)
+[![](https://img.shields.io/badge/Instagram-informational?style=flat&logo=Instagram&logoColor=white&color=E4405F)](https://instagram.com/arghyaxcodes)
+[![](https://img.shields.io/badge/Dribbble-informational?style=flat&logo=Dribbble&logoColor=white&color=EA4C89)](https://dribbble.com/arghyaxcodes)
+[![](https://img.shields.io/badge/Behance-informational?style=flat&logo=Behance&logoColor=white&color=1769FF)](https://behance.net/arghyaxcodes)
 [![](https://img.shields.io/badge/Medium-informational?style=flat&logo=Medium&logoColor=white&color=000000)](https://arghyaxcodes.medium.com/)
-[![](https://img.shields.io/badge/DEV-informational?style=flat&logo=devdotto&logoColor=white&color=0A0A0A)](https://dev.to/uiuxarghya)
-[![](https://img.shields.io/badge/hashnode-informational?style=flat&logo=hashnode&logoColor=white&color=2962FF)](https://uiuxarghya.hashnode.dev)
+[![](https://img.shields.io/badge/DEV-informational?style=flat&logo=devdotto&logoColor=white&color=0A0A0A)](https://dev.to/arghyaxcodes)
+[![](https://img.shields.io/badge/hashnode-informational?style=flat&logo=hashnode&logoColor=white&color=2962FF)](https://arghyaxcodes.hashnode.dev)
 [![GitHub Metrics](https://img.shields.io/badge/-informational?&label=GitHub+Metrics&style=social)](https://metrics.lecoq.io/about/arghyaxcodes)
 ![Profile Views](https://komarev.com/ghpvc/?username=arghyaxcodes)
 ![GitHub followers](https://img.shields.io/github/followers/arghyaxcodes?label=Followers&style=social)
@@ -104,14 +104,14 @@ Markdown     31 mins         █░░░░░░░░░░░░░░░░
 
 - [🔗 8bits](https://github.com/arghyaxcodes/8bits), a serverless url shortener web app.
 -->
-If you'd like to discuss any sort of opportunity, feel free to [contact me](mailto:uiuxarghya@gmail.com).
+If you'd like to discuss any sort of opportunity, feel free to [contact me](mailto:arghyaxcodes@gmail.com).
 
 ## Support Me
 
-<a href="https://www.buymeacoffee.com/uiuxarghya" target="_blank">
+<a href="https://www.buymeacoffee.com/arghyaxcodes" target="_blank">
  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 36px !important" >
 </a>
 &nbsp;
-<a href='https://ko-fi.com/uiuxarghya' target='_blank'>
+<a href='https://ko-fi.com/arghyaxcodes' target='_blank'>
  <img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi5.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 </a>
